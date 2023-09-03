@@ -10,3 +10,11 @@
     height: 2.7rem;
     margin-right: 25px;
 }
+
+.header-left{
+    display: flex;
+    flex:1;
+    justify-content: space-between;
+    align-items: center;
+    height: 72px;
+}
