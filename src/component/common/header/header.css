@@ -1,0 +1,12 @@
+.header{
+    width:100%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.2rem;
+}
+
+.header-logo{
+    max-width: 14rem;
+    height: 2.7rem;
+    margin-right: 25px;
+}
