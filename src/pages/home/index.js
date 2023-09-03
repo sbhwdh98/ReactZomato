@@ -8,6 +8,9 @@ const HomePage = () => {
     <div>        
     <Header/>
     <Navbar/>
+    {
+      getCorrectScreen()
+    }
     {/* Variable Screen */}
     <Footer/>
     </div>
