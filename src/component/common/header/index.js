@@ -19,7 +19,8 @@ const Header = () => {
           <div className="location-search-separator"></div>
 
           <div className="header-searchbar">
-            <i className="fi fi-rr-search absolute-center"></i>
+            <i className="fi fi-rr-search absolute-center search-icon"></i>
+            {/* 59:04 https://www.youtube.com/watch?v=TDLc9AWEcFA*/}
           </div>
 
 
